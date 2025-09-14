@@ -34,9 +34,9 @@ HOW TO RUN:
 2. Install dependencies:
    pip install -r requirements.txt
 
-3.Run the app:
+ 3.Run the app:
    streamlit run fake.py
 
-4.Open in browser at:
+ 4.Open in browser at:
     http://localhost:8501
 
