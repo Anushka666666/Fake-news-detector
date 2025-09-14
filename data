@@ -1,0 +1,5 @@
+I used the Fake and Real News Dataset from Kaggle. It contains two CSV files:
+Fake.csv → Articles labeled as fake news
+True.csv → Articles labeled as real news
+  
+🔗 Dataset Source:https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
