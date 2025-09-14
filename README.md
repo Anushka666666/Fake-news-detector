@@ -28,4 +28,15 @@ For this project, we mainly used the "text" field.
 - BeautifulSoup4 + requests: Extract news content from URLs
 - Streamlit: Web app frontend
 
+HOW TO RUM:
+1. git clone: https://github.com/Anushka666666/Fake-news-detector
+
+2. Install dependencies
+   pip install -r requirements.txt
+
+3.Run the app
+   streamlit run fake.py
+
+4.Open in browser at
+    http://localhost:8501
 
